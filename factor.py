@@ -7,3 +7,8 @@ def factors(n):
             continue
 
     return factor
+#今このスクリプトのみだと、input output なし
+
+#yakusuu = int(input("好きな数字入力どうぞ:"))
+
+#factors(yakusuu)
